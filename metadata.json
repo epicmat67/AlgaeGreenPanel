@@ -1,0 +1,6 @@
+{
+  "name": "NEEV — Algae Green Panel",
+  "description": "Turning Urban CO₂ into Cleaner Air. An environmental biotechnology and engineering project exploring microalgae photosynthesis, photobioreactor design, and smart sensor monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
